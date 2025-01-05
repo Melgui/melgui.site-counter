@@ -1,1 +1,1 @@
-# melgui.site-counter
+# melgui.site/counter
